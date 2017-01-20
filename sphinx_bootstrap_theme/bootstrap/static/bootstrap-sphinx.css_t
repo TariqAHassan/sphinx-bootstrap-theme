@@ -134,21 +134,21 @@ table.field-list {
   padding-top:    10px;
   padding-bottom: 10px;
   text-shadow: 0 1px 0 #fff;
-  background-color: #f7f5fa;
+  background-color: #f5f5f5;
   border-radius: 5px;
 }
 
 /* All levels of nav */
 .bs-sidenav .nav > li > a {
   display: block;
-  color: #716b7a;
+  color: #699DD2;
   padding: 5px 20px;
 }
 .bs-sidenav .nav > li > a:hover,
 .bs-sidenav .nav > li > a:focus {
   text-decoration: none;
   background-color: #e5e3e9;
-  border-right: 1px solid #dbd8e0;
+  border-right: 0px solid #dbd8e0;
 }
 .bs-sidenav .nav > .active > a,
 .bs-sidenav .nav > .active:hover > a,
