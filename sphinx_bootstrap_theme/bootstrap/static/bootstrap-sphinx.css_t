@@ -147,7 +147,7 @@ table.field-list {
 .bs-sidenav .nav > li > a:hover,
 .bs-sidenav .nav > li > a:focus {
   text-decoration: none;
-  background-color: #ebebf0;
+  background-color: #ededf2;
   border-right: 0px solid #dbd8e0;
 }
 .bs-sidenav .nav > .active > a,
